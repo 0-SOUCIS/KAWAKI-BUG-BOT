@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/kawaki227booster"><img title="Author" src="https://img.shields.io/badge/KAWAKIbooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaQYelq4SpkFeTKm8x2Q"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+22781289418"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/kawaki227"><img title="Author" src="https://img.shields.io/badge/KAWAKIbooster-black?style=for-the-badge&logo=Github"></a> <a href="lehttps://whatsapp.com/channel/0029VaQYelq4SpkFeTKm8x2Q"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+22781289418"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
@@ -21,7 +21,7 @@
 pour avoir le repo de KAWAKI
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/zerosoucis/KAWAKI-BUG-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/0-SOUCIS/KAWAKI-BUG-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
@@ -58,7 +58,7 @@ N=NO
 Y=YES
 
 
-TU VAS METTRE TOUT NUMÉRO SANS +
+TU VAS METTRE TON NUMÉRO SANS +
 COMME ICI 227812.... +❌
 
 ### COPIE COLLER
@@ -94,12 +94,12 @@ zerosouci/KAWAKI-BUG-BOT
  
  npm start
 
-`Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
+`Please KAWAKI BUG BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to KAWAKI BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
@@ -119,3 +119,4 @@ Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and
 - [`KAWAKI227`](https://github.com/kawaki227)
 - [`SATORU-TECH`](https://github.com/SatoruTech)
 - [`LIMULE`](https://github.com/Limule3650)
+- [`ZÉRO-SOUCI`](https://githu.com/0-SOUCIS)
