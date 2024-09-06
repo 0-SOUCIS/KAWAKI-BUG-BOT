@@ -8,8 +8,8 @@
 
   <p align="center">  
   <a href="https://chat.whatsapp.com/JJKW5HQonJfKowoOBHi2Za">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
-    <h1 align="center">KAWAKI-BUG-BOT</h1>
+    <img alt="wasi" height="300" src="https://telegra.ph/file/012c279b7380afc26d821.jpg">
+<h1 align="center">KAWAKI-BUG-BOT</h1>
   </a>
 </p>
 <img alt="KAWAKI" width="0" height="0" src="https://telegra.ph/file/f0bad9ace08c59356027d.mp4">
