@@ -3,12 +3,12 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=MERCI D'AVOIR CHOISI ;KAWAKI-BUG-BOT;WHATSAPP+BUG+BOT; CRÉER+PAR+KAWAKI+227;RELEASED+05.08.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=MERCI D'AVOIR CHOISI ;KAWAKI-BUG-BOT;WHATSAPP+BUG+BOT; CRÉER+PAR+KAWAKI+227;RELEASED+09.06.2024" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
   <a href="https://chat.whatsapp.com/JJKW5HQonJfKowoOBHi2Za">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/012c279b7380afc26d821.jpg">
     <h1 align="center">KAWAKI-BUG-BOT</h1>
   </a>
 </p>
